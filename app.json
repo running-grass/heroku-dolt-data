@@ -1,0 +1,5 @@
+{
+    "name": "heroku dolt data",
+    "description": "A notebook for anything",
+    "stack": "container"
+  }
